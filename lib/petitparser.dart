@@ -160,6 +160,7 @@ import 'package:meta/meta.dart';
 import 'dart:collection';
 
 part 'src/core/actions.dart';
+part 'src/core/builder.dart';
 part 'src/core/characters.dart';
 part 'src/core/combinators.dart';
 part 'src/core/composite.dart';
